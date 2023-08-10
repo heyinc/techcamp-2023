@@ -1,4 +1,9 @@
-h1 {
-  color: hotpink;
-  font-family: cursive;
+.counter {
+  max-width: 600px;
+}
+
+.counter-display {
+  border: solid 1px #ccc;
+  padding: 2px;
+  height: 20px;
 }
