@@ -1,0 +1,2 @@
+web: PORT=1234 yarn start
+api: bin/rails s -p 3000
