@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "parcel serve --dist-dir .cache/dist/",
+    "build": "parcel build --dist-dir public/"
+  },
+  "name": "pos",
+  "source": "web/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
