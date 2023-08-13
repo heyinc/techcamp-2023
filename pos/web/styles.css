@@ -3,6 +3,8 @@
 }
 
 .counter-display {
+  display: block;
+  width: 100%;
   border: solid 1px #ccc;
   padding: 2px;
   height: 20px;
