@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd pos && ./bin/setup && cd -
+cd membership && ./bin/setup && cd -
