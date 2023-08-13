@@ -3,7 +3,7 @@
     "start": "parcel serve --dist-dir .cache/dist/",
     "build": "parcel build --dist-dir public/"
   },
-  "name": "pos",
+  "name": "membership",
   "source": "web/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "license": "MIT",
